@@ -1,0 +1,31 @@
+html {
+	text-align: center;
+	background-color: #332333;
+	animation: infinite;
+}
+
+#textwelcome {
+	font-style: oblique;
+	font-size: 24px;
+}
+
+h2 {
+	font-style: italic;
+    font-size: 30px;
+}
+
+h3 {
+	font-style: italic;
+    font-size: 23px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 32px;
+	font-style: oblique;
+	background-color: #9DB17C;
+	border-radius: 25px;
+	color: black;
+	padding: 06px 10px;
+	display: inline-block;
+}
